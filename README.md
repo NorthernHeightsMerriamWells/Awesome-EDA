@@ -1,4 +1,4 @@
-# Awesome EDA 🛠️
+file # Awesome EDA 🛠️
 
 > A curated list of **high-quality** Electronic Design Automation (EDA) tools, projects, tutorials, books, and resources.
 
